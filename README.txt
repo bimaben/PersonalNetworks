@@ -13,3 +13,6 @@ File naming: Files names include data last saved, project name, code/series func
 File storage location: The files are all stored in the project repository at https://github.com/AmarDhand/PersonalNetworks
 
 
+Date of edit begins: Dat of edits to be made begins 11/29/200
+
+
