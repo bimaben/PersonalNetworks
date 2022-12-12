@@ -14,5 +14,6 @@ File storage location: The files are all stored in the project repository at htt
 
 
 Date of edit begins: Dat of edits to be made begins 11/29/200
+The purpose of this edit is to mirror the ugandan perspective of personal networks as guided by the lab
 
 
